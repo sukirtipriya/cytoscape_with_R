@@ -1,1 +1,3 @@
 # cytoscape_with_R
+
+Cytoscape is a well-known bioinformatics tool for displaying and exploring biological networks. R is a powerful programming language and environment for statistical and exploratory data analysis. RCy3 uses CyREST to communicate between R and Cytoscape, allowing any graphs (e.g., igraph, graphNEL or dataframes) to be viewed, explored and manipulated with the Cytoscape point-and-click visual interface. Thus, via RCy3, these two quite different, quite useful bioinformatics software environments are connected, mutually enhancing each other, providing new possibilities for exploring biological data.
